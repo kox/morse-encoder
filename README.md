@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Program to encode and, optionally, offuscate a message to morse code.
+Program to encode and, optionally, obfuscate a message to morse code.
 
 ## Installation
 
@@ -50,7 +50,7 @@ Encode message to morse code:
 yarn encode -m "This is an example"
 ```
 
-Encode & offuscate message:
+Encode & obfuscate message:
 
 ```zsh
 yarn encode -m "This is an example" -o
